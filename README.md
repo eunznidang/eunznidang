@@ -9,6 +9,6 @@
 
 <div>
   
-[![eunzinidang's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eunznidang&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/eunznidang)
+[![eunznidang's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eunznidang&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/eunznidang)
 
 </div>

@@ -7,6 +7,6 @@
 <br>
 <div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunznidang&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunznidang&layout=compact&theme=buefy"/>
 
 </div>

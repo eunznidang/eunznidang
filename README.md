@@ -11,7 +11,7 @@
 -->
   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunznidang&show_icons=true&theme=radical&bg_color=white&title_color=808080&icon_color=ffc0cb&text_color=808080)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunznidang&show_icons=true&theme=radical&bg_color=white&title_color=808080&icon_color=fed2fe&text_color=808080)
 
 
 </div>

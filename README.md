@@ -6,9 +6,12 @@
 </div>
 <br>
 <div>
+<!-- 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunznidang&layout=compact&theme=graywhite&text_color=ffc0cb"/>
+-->
+  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunznidang&layout=compact&theme=buefy"/>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunznidang&show_icons=true&theme=radical&bg_color=white&title_color=808080&icon_color=ffc0cb&text_color=808080)
 
 
 </div>
